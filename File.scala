@@ -12,5 +12,6 @@ object MainObject {
     var s = new demoFunction
     var res = s.add(10,20)
     println("Addition : " + res)
+    println("Hello")
   }
 }
